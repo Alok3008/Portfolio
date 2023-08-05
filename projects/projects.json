@@ -1,0 +1,24 @@
+[
+  
+  {
+    "name": "KHETIBADI",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Khetibadi",
+    "category": "basicweb",
+    "links": {
+      "view": "https://alok3008.github.io/KHETIBADI/",
+      "code": "https://github.com/Alok3008/KHETIBADI"
+    }
+  },
+  {
+    "name": "Education Website",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "Education",
+    "category": "basicweb",
+    "links": {
+      "view": "https://alok3008.github.io/Education//",
+      "code": "https://github.com/Alok3008/Education"
+    }
+  }
+  
+]
